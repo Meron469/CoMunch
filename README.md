@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/harshaggarwal8/CoMunch">
+
     <img src="assets/images/doc-logo.jpg" alt="Logo" height="80">
   </a>
 
@@ -13,11 +13,7 @@
     An awesome way to connect with people and discover the best restaurants in your area. Now available for iOS & Android devices.
     <br />
     <br />
-    <a href="https://github.com/harshaggarwal8/CoMunch">View Demo</a>
-    ·
-    <a href="https://github.com/harshaggarwal8/CoMunch/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/harshaggarwal8/CoMunch/issues">Request Feature</a>
+   
   </p>
 </p>
 
@@ -56,7 +52,7 @@ It is often hard for people to decide a common place where they would like to di
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/harshaggarwal8/CoMunch/issues) for a list of proposed features (and known issues).
+See the [open issues]for a list of proposed features (and known issues).
 
 
 <!-- CHANGELOG -->
@@ -79,9 +75,7 @@ See the [open issues](https://github.com/harshaggarwal8/CoMunch/issues) for a li
 <!-- CONTACT -->
 ## Contact
 
-Team Dart on Point - [@comunch_app](https://twitter.com/comunch_app) - info@comunch.io
 
-Project Link: [https://github.com/harshaggarwal8/CoMunch](https://github.com/harshaggarwal8/CoMunch)
 
 
 
