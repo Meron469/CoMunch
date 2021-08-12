@@ -1,13 +1,6 @@
-[![Actions Status](https://github.com/harshaggarwal8/CoMunch/workflows/Flutter%20Build/badge.svg)](https://github.com/harshaggarwal8/CoMunch/actions)
-
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
 
-    <img src="assets/images/doc-logo.jpg" alt="Logo" height="80">
-  </a>
-
-  <h3 align="center">CoMunch Mobile App</h3>
 
   <p align="center">
     An awesome way to connect with people and discover the best restaurants in your area. Now available for iOS & Android devices.
